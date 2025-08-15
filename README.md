@@ -15,6 +15,6 @@ Image Uploading – User uploads an image in .jpg or .png format.
 
 Preprocessing – The image is resized to 224x224 pixels and preprocessed for the model.
 
-Prediction – The model outputs a probability score to determine the class.
+Prediction – The model outputs a probability score to determine the class..
 
 Result Display – The system displays whether the image is classified as a “Cat” or “Dog”
